@@ -1,5 +1,9 @@
 # SecAgent
 
+[![CI](https://github.com/ms00-code/secagent/actions/workflows/ci.yml/badge.svg)](https://github.com/ms00-code/secagent/actions/workflows/ci.yml)
+[![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-blue)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
 AI-assisted web security reconnaissance CLI for authorized security testing.
 
 ```text
